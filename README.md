@@ -1,6 +1,6 @@
 # Regularization
 
-This repository contains code and resources for Regularization.
+This repository contains code and resources for Linear Regression and Logistic-Regression with Regularization.
 
 ## Documentation
 
